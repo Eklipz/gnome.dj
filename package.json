@@ -1,6 +1,6 @@
 {
   "name": "plugdj-gnome.dj",
-  "author": "Eklipz",
+  "author": "N8teZero",
   "version": "0.040117a",
   "description": "Plug.dj NodeJS Nomadic Bot",
   "main": "index.js",
@@ -20,7 +20,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Eklipz/gnome.dj.git"
+    "url": "git+https://github.com/N8teZero/gnome.dj.git"
   },
   "keywords": [
     "plug.dj",
@@ -28,7 +28,7 @@
   ],
   "license": "GPL-3.0",
   "bugs": {
-    "url": "https://github.com/Eklipz/gnome.dj/issues"
+    "url": "https://github.com/N8teZero/gnome.dj/issues"
   },
-  "homepage": "https://github.com/Eklipz/gnome.dj#readme"
+  "homepage": "https://github.com/N8teZero/gnome.dj#readme"
 }

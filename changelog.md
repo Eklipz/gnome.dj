@@ -1,4 +1,7 @@
 - April 1, 2017
+  - 0.040117b
+    - Changes
+      - Stripped out all unnecessary functions and commands
   - 0.040117a
     - Changes
       - No, this is not an April Fool's joke
