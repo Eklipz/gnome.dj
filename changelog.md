@@ -1,0 +1,6 @@
+- April 1, 2017
+  - 0.040117a
+    - Changes
+      - No, this is not an April Fool's joke
+      - Gnome.DJ was born on this day
+      - The framework is in place
