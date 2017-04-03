@@ -1,7 +1,7 @@
 {
   "name": "plugdj-gnome.dj",
   "author": "N8teZero",
-  "version": "0.040117a",
+  "version": "0.040317a",
   "description": "Plug.dj NodeJS Nomadic Bot",
   "main": "index.js",
   "dependencies": {

@@ -1,3 +1,7 @@
+- April 3, 2017
+  - 0.040317a
+    - Changes
+      - Added basic nomad functionality
 - April 1, 2017
   - 0.040117b
     - Changes
